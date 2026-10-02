@@ -1,2 +1,9 @@
 Update 0.1.1
-- Throwaway test release.
+- Players online and public parties.
+- Redesigned customize menu.
+- Join our Discord button.
+- Room codes are easier to read.
+
+Update 0.1.0
+- Published game
+- Hope you have fun!
