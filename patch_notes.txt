@@ -1,3 +1,10 @@
+Update 0.2.1
+- New "Test my connection" button on the Join screen: it checks the server, your firewall/UDP and your router and tells you what is blocking online play.
+- Better connection logs (Open log folder), including what both sides see while connecting.
+- The Public party switch is always shown for hosts; if you are hosting on LAN it is greyed out and says why.
+- Support for a TURN relay in the config, for networks that cannot connect directly.
+- Fixed settings being overwritten by test runs.
+
 Update 0.2.0
 - NEW MAP: the Castle. An indoor hall and an outdoor courtyard joined by doorways.
 - Swords (one hand, long reach, knock bones loose easily but barely crush them) in the hall and the courtyard.
