@@ -1,3 +1,17 @@
+Update 0.2.0
+- NEW MAP: the Castle. An indoor hall and an outdoor courtyard joined by doorways.
+- Swords (one hand, long reach, knock bones loose easily but barely crush them) in the hall and the courtyard.
+- Shields (one hand). Hold F + M1/M2 to block: the shield soaks the hit, the arm takes no damage. Shields wear out and break.
+- Firework stand in the courtyard (new rockets appear on a timer). F near one, or while holding one, lights a 3 second fuse. R + M1/M2 grabs it, M1 + M2 grips it with both hands.
+- Ride a rocket: hold it when the fuse ends and it carries you where you point for 6 seconds, then explodes. R lets go mid-flight. A rocket nobody holds shoots off in a straight line and explodes on the first thing it hits.
+- Pirate ship: cannonballs are the bombs now. A landed cannonball sits on the deck as an inert bomb. Pick it up (R) to light a 4 second fuse; throw it or drop it, the fuse keeps burning. Sparking fuse, flashing bomb and a shrinking ring show the countdown. The old loose bombs are gone.
+- Homunculi are cursed now: wrong sockets, wrong proportions, an arm where the head should be, twitchy jerky movement and a faint sickly green glow.
+- Homunculi come sooner: crawlers 1:00, stumblers 1:45, bone piles 2:30, twin-skulls 3:15, first Abomination 4:00 and one more every minute.
+- Legs are tougher: 50% more detach resistance and 3 crush HP.
+- Crawling: legless skeletons can no longer jump. Hold Space for 2.5 seconds to scoop up a dirt ball, then throw it like a limb. It staggers whoever it hits.
+- Online play fixes: clearer error messages, a 60 second wait for the sleeping server, a connection log (Open log folder on the Join screen), and a fix for the freezes and crashes when closing the game.
+- New kill feed lines for fireworks, bombs, swords and dirt balls.
+
 Update 0.1.1
 - Players online and public parties.
 - Redesigned customize menu.
