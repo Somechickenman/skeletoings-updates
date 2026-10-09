@@ -1,3 +1,17 @@
+Update 0.2.2
+- NEW MAP: the Library. Walls of books, aisles, reading tables, books you can grab and throw, and chandeliers that creak, then fall.
+- Teeth and achievements: 21 achievements (some secret) pay out Teeth. They only count in real matches, never the sandbox.
+- A shop for Teeth: premium hats and accessories, skin rolls (Comm-Bone, Osteo-ntatious, Spine-tacular), and daily Skele-TON of Value Packs.
+- Six new cosmetics: Dead Saint, Head Chef, Funny Bone, Rotor Skull, Eyes On You, Bone Appetit.
+- Online play: if two players can't connect directly (strict routers), the game now falls back to going through the server. Slower, but it connects.
+- The Pit and Pillar Garden were rebuilt: a skull monument, tiered stands, ribs, ruins and slopes. The Ship, Castle and Graveyard got a lot of scenery.
+- Solid stands, and anything knocked over the rim is out of the ring. Lots of floating bits fixed.
+- Ship cannons now matter: wider aim, shells explode on impact, recoil, and a splash in the sea.
+- Swords, shields, rockets, bombs and dirt balls have proper textures. Sounds are now real recordings.
+- Emotes: the salute is replaced by Heart, plus new Clap, Dance and Shrug.
+- Digging a dirt ball takes 2 seconds and looks like digging. Legless sideways rolls are real barrel rolls.
+- Fixed grabbing the same item with both hands by accident.
+
 Update 0.2.1
 - New "Test my connection" button on the Join screen: it checks the server, your firewall/UDP and your router and tells you what is blocking online play.
 - Better connection logs (Open log folder), including what both sides see while connecting.
