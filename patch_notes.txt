@@ -1,3 +1,18 @@
+Update 0.2.3
+- NEW: a skeleton-hand cursor that closes into a fist when you click and twitches over buttons.
+- NEW: a staged start screen: a Library throne room, a Graveyard picnic and a Pirate ship at sea, picked at random, plus rotating tips and a new intro.
+- NEW: spectating. After you die, keep watching; or join a match already in progress as a spectator. Nametags above players (can be turned off).
+- NEW: a redesigned Customize screen with collectible cards, a colour row, style slots with padlocks, and a 3D dice that shakes up a random outfit. Rattle a padlock 50 times for a secret achievement.
+- NEW: a shopkeeper skeleton runs the shop. Items are cards with price tags, daily packs are crates, and he has opinions about everything you hover over.
+- NEW: tarot card style panels and buttons across the whole game, a redesigned achievements page and patch notes.
+- Skeleton heads have real eye sockets and a nose now, and cards and lobby portraits show a real skeleton wearing your look.
+- Beheaded skeletons keep walking: the body staggers toward its skull while the skull rolls back to it. The body picks the head up when they meet.
+- Smarter AI: armless AIs go looking for arms and keep fighting, AIs fetch swords and shields, and they get unstuck from walls and counters instead of sitting there.
+- The spawn menu now only exists in the Sandbox.
+- Numbers 5, 7 and 8 are readable now. Menu sounds are always the same sound instead of random ones.
+- Fixed a ghost outline when spinning the skeleton in Customize, the skeleton starting backwards there, and the bandana poking through the skull.
+- Fixed dying sending you back to the start screen instead of staying in your party.
+
 Update 0.2.2
 - NEW MAP: the Library. Walls of books, aisles, reading tables, books you can grab and throw, and chandeliers that creak, then fall.
 - Teeth and achievements: 21 achievements (some secret) pay out Teeth. They only count in real matches, never the sandbox.
