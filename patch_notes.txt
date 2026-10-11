@@ -1,3 +1,14 @@
+Update 0.2.5
+- NEW: the Library is now a trap. Stand under a chandelier and it creaks, then drops two seconds later, crushing whatever is under it. A real ceiling with beams and a moonlit observatory window closes the room. Books on the tables are visible again and hit like a crushing sword.
+- New achievements: It's Flyin' Time (be in the air for more than 10 seconds) and Glad You Like the Game (play for 1 hour).
+- Achievements renamed and changed: Fabric Filcher (wear 5 different hats in one match), Breakdancer (secret: every emote on every map), Dung Beetle (knock a limb off with a dirt ball) and Nice Catch (block an unmanned firework with a shield).
+- Smarter AI: NPCs grab swords, shields and books, run from creaking chandeliers, and lean toward fighting players. Homunculi always hunt players, never each other.
+- The slow-motion death only happens when a player dies, not an NPC.
+- Hosts get Retry round (and Back to lobby) on the round end screen, the death screen and the pause menu, so you don't have to go back to the main menu.
+- Fixed grabbing a rocket with your free hand when the other hand already holds it.
+- Fixed hats losing their skin when they fall off, and when someone picks one up.
+- Fixed the achievement popup showing half cut off the screen.
+
 Update 0.2.4
 - NEW: music! A theme for each start screen scene (Library, Graveyard, Pirate ship), the Customize screen and the shop, and one for every map. Match music has layers that build up as the fighting gets wilder.
 - NEW: little jingles when someone dies, when you win and when you lose.
