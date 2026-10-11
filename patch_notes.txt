@@ -1,3 +1,14 @@
+Update 0.2.6
+- NEW: daily quests. Three new quests every day, with a bonus for finishing all three. The first time you open the Quests tab each day, the cards are dealt out. A "!" shows on the Teeth & Trophies button and on the Shop and Quests tabs when there are new crates or quests.
+- NEW: achievement unlocks are an event now. Banners and medals in bronze, silver, gold and secret, with big and secret ones getting a bigger show and their own jingle. Click an achievement to open its card and replay the unlock. New Settings: Unlock jingles volume, Reduce flashes and Show progress pops.
+- NEW: Discord Rich Presence. Your Discord shows Playing Skeletoings with how long you have been playing, and whether you are in the menus, the sandbox or a match (map and player count, never a room code). There is a Show on Discord switch in Settings.
+- NEW: F11 toggles fullscreen.
+- NEW: a new game icon.
+- Better explosions: bombs and cannonballs now have a flash, a fireball, sparks and rising smoke. Fireworks leave a colourful trail and burst into coloured shells with glitter.
+- Fairer wins: if the other player leaves, the round is a no contest and nobody wins. A win now has to be earned with a kill or by lasting 30 seconds before it pays out Teeth, achievements or quests.
+- It's Flyin' Time now counts properly, legs are a bit tougher, the shopkeeper talks in little blips and the digging sound is a real sound effect.
+- The Settings page scrolls.
+
 Update 0.2.5
 - NEW: the Library is now a trap. Stand under a chandelier and it creaks, then drops two seconds later, crushing whatever is under it. A real ceiling with beams and a moonlit observatory window closes the room. Books on the tables are visible again and hit like a crushing sword.
 - New achievements: It's Flyin' Time (be in the air for more than 10 seconds) and Glad You Like the Game (play for 1 hour).
