@@ -1,15 +1,3 @@
-Update 0.3.0
-- NEW MAP: the Catacombs. A closed stone maze under a low ceiling: four corner chambers, a tomb in the middle, corridors wide enough to fight two abreast, torches, and shelves of bones along the walls. The AI finds its way through it. Your camera stays out of the walls.
-- NEW: chests. Walk up and press R. Each one opens once, stays open and empty, and drops one item: 40% a cursed jar, otherwise a bomb, firework, sword, shield or two books.
-- NEW ITEM: the cursed jar. Throw it hard and it shatters. What was inside swells on the floor for a few seconds (2 s Malformed, 4 s Formed, 7 s Extraformed) while you can still smash it into goo, then it hunts the one skeleton closest to where the jar broke, never the thrower, until one of them is dead. Its target leaves a trail of green smoke.
-- NEW: crawlspaces. Low gaps in some walls are shortcuts for skeletons with no legs, and a skeleton with legs can wiggle through too.
-- NEW: you can join a public party that is already in a match. You spectate until the next round.
-- Hit freezes are gone: no more stutter on every hit, and bomb fuses burn at a steady pace. The slow-motion death is still there.
-- The sledgehammer in the air: the first one goes any direction, then only downward until you land, with a short cooldown. No more flying into the sky forever.
-- Legs are much harder to lose by tripping over a rim or a step.
-- Item pictures on the cards are chunkier.
-- Fixed one player missing their throw bar and overlays and seeing broken limbs when their game loaded the match more slowly than the host's.
-
 Update 0.2.6
 - NEW: daily quests. Three new quests every day, with a bonus for finishing all three. The first time you open the Quests tab each day, the cards are dealt out. A "!" shows on the Teeth & Trophies button and on the Shop and Quests tabs when there are new crates or quests.
 - NEW: achievement unlocks are an event now. Banners and medals in bronze, silver, gold and secret, with big and secret ones getting a bigger show and their own jingle. Click an achievement to open its card and replay the unlock. New Settings: Unlock jingles volume, Reduce flashes and Show progress pops.
