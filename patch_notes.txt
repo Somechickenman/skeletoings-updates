@@ -1,3 +1,21 @@
+Update 0.3.0
+- NEW: two bosses and two new maps you have to earn. Abominations on the Graveyard sometimes drop a soul key. It opens the mausoleum, and stairs lead down into the Ancient Mausoleum.
+- NEW BOSS: the Ancient Homunculus. Ring the four bells in the tunnels and a huge mass of fused skeletons climbs out of the bone pit. Break its arms and skulls to reach its core. It drags you into itself (mash Space, or have a friend break the arm), raises homunculi, breathes bone-cracking gas, and grows as it absorbs bones.
+- NEW MAP: the Catacombs, unlocked by beating the Ancient Homunculus. A closed stone maze with chests, crawlspaces and a sealed tomb.
+- NEW BOSS: the Elder Slayer, asleep in the Catacombs' tomb. Find the soul key in a chest, wake him, and break through his armour. Beat him and the first to grab his fallen helm keeps it... though nobody can wear it yet.
+- NEW: unlocks are your own. In a party the host picks from the maps they have earned.
+- NEW: the Extra Skull, a little head on your shoulder that looks around, earned from the Ancient Homunculus. There's a secret for those who beat it.
+- NEW: swords got heavy. Draw and sheathe on the hip (R + M1 / M2), heavy slashes, a cross slash with two swords, a spin with one. The new Shogun Hat turns any sword you hold into a katana.
+- NEW: drink a cursed jar (Q) and keep what was inside. Tap Q to spit one out to hunt someone, Q + M1 / M2 to spit it into your hand. Die with them inside and they burst out at your killer.
+- NEW: chests, cursed jars, crawlspaces, and joining a public party mid-match as a spectator.
+- NEW: unique names (nobody else can take yours) and leaderboards for wins and time played. Turn on "Show me on leaderboards" in Settings to appear on them.
+- Smarter AI: NPCs throw bones, books and lit bombs, ride fireworks, man the cannons and block then counter, depending on difficulty.
+- Controls: R alone wears hats and armour and opens chests, F alone blocks, and only the prompt nearest the middle of your screen works.
+- Real lanterns and torches on every map, with flickering flames, all hanging from something now.
+- The Graveyard's mausoleum got a proper roof.
+- Skulls have their brow above the eyes now.
+- Hit freezes are gone, the air sledgehammer can only go downward after the first one, and legs are much harder to lose by tripping.
+
 Update 0.2.6
 - NEW: daily quests. Three new quests every day, with a bonus for finishing all three. The first time you open the Quests tab each day, the cards are dealt out. A "!" shows on the Teeth & Trophies button and on the Shop and Quests tabs when there are new crates or quests.
 - NEW: achievement unlocks are an event now. Banners and medals in bronze, silver, gold and secret, with big and secret ones getting a bigger show and their own jingle. Click an achievement to open its card and replay the unlock. New Settings: Unlock jingles volume, Reduce flashes and Show progress pops.
