@@ -1,3 +1,7 @@
+Update 0.3.0.2
+- FIX: the pause screen could get stuck over the game with the mouse and keyboard locked (if a text box still had focus when a match started). The game now lets go of the mouse whenever you switch windows, the pause dim can never stay up without its menu, and pressing Esc three times quickly always gets you out.
+- CORRECTIF : l'écran de pause pouvait rester bloqué avec la souris et le clavier verrouillés. Le jeu relâche maintenant la souris quand tu changes de fenêtre, et appuyer trois fois sur Échap te sort toujours de là.
+
 Update 0.3.0.1
 - NEW: Skeletoings en français ! Tout le jeu est traduit. Choisis ta langue au premier lancement, ou à tout moment dans Options > Langue.
 - NEW: the whole game is translated into French. Pick your language the first time you start, or any time in Settings > Language.
