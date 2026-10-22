@@ -1,3 +1,9 @@
+Update 0.3.0.1
+- NEW: Skeletoings en français ! Tout le jeu est traduit. Choisis ta langue au premier lancement, ou à tout moment dans Options > Langue.
+- NEW: the whole game is translated into French. Pick your language the first time you start, or any time in Settings > Language.
+- Key hints now show your own keyboard's keys, so AZERTY players see ZQSD and A instead of WASD and Q.
+- Long item and achievement names no longer get cut off.
+
 Update 0.3.0
 - NEW: two bosses and two new maps you have to earn. Abominations on the Graveyard sometimes drop a soul key. It opens the mausoleum, and stairs lead down into the Ancient Mausoleum.
 - NEW BOSS: the Ancient Homunculus. Ring the four bells in the tunnels and a huge mass of fused skeletons climbs out of the bone pit. Break its arms and skulls to reach its core. It drags you into itself (mash Space, or have a friend break the arm), raises homunculi, breathes bone-cracking gas, and grows as it absorbs bones.
