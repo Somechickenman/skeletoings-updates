@@ -1,3 +1,11 @@
+Update 0.3.0.3
+- FIX: in online games, whatever you hold no longer lags behind your hand.
+- FIX: nobody spawns inside a cannon, barrel or wall any more (Ship and Castle).
+- Eye sockets now sit inside the skull, so they look right from the side.
+- CORRECTIF : en ligne, ce que tu tiens ne traîne plus derrière ta main.
+- CORRECTIF : plus personne n'apparaît dans un canon, un tonneau ou un mur (Navire et Château).
+- Les orbites sont maintenant creusées dans le crâne : elles rendent bien de profil.
+
 Update 0.3.0.2
 - FIX: the pause screen could get stuck over the game with the mouse and keyboard locked (if a text box still had focus when a match started). The game now lets go of the mouse whenever you switch windows, the pause dim can never stay up without its menu, and pressing Esc three times quickly always gets you out.
 - CORRECTIF : l'écran de pause pouvait rester bloqué avec la souris et le clavier verrouillés. Le jeu relâche maintenant la souris quand tu changes de fenêtre, et appuyer trois fois sur Échap te sort toujours de là.
