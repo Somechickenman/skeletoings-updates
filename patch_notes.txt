@@ -1,3 +1,13 @@
+Update 0.3.0.4
+- FIX: in online games you can now pick up and wear hats and armour plates (the prompt never showed up).
+- FIX: online, your skeleton no longer runs ahead into walls and slides back when you get blocked or stop.
+- Graveyard: homunculi now start at 0:30 (one every 10 s), the stronger ones join at 1:30 (one every 12 s), and Abominations come from 2:30, one every 40 s. No more 4-minute wait for a shot at a soul key.
+- Graveyard: the raised dirt rims round the open graves are gone (they tripped everyone).
+- CORRECTIF : en ligne, tu peux de nouveau ramasser et porter les chapeaux et les plaques d'armure (l'invite n'apparaissait jamais).
+- CORRECTIF : en ligne, ton squelette ne fonce plus dans les murs pour glisser ensuite en arrière quand tu es bloqué ou que tu t'arrêtes.
+- Cimetière : les homoncules arrivent dès 0:30 (un toutes les 10 s), les plus forts à partir de 1:30 (un toutes les 12 s), et les Abominations dès 2:30, une toutes les 40 s. Fini les 4 minutes d'attente pour tenter une clé d'âme.
+- Cimetière : les rebords de terre autour des tombes ouvertes ont disparu (tout le monde trébuchait dessus).
+
 Update 0.3.0.3
 - FIX: in online games, whatever you hold no longer lags behind your hand.
 - FIX: nobody spawns inside a cannon, barrel or wall any more (Ship and Castle).
