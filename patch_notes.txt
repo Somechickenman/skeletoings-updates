@@ -1,3 +1,19 @@
+Update 0.3.0.5
+- FIX: online (joining a game): pick-up prompts for swords, books, bombs, shields and other items now show up.
+- FIX: online: your own dropped limbs no longer slide along the floor when you move.
+- FIX: online lag: smoother movement on slow or jittery connections (the game now buffers more when your connection needs it), and the host sends about a quarter less data.
+- FIX: online: no more error spam on the host when a player leaves.
+- Physics now costs less (about 15-30%), which helps hosts with a full lobby.
+- The updater finds new versions right away, retries if the connection hiccups, and no longer hangs on a stalled download.
+- The Ancient Mausoleum is tidier: fewer urns and rubble piles, everything left on the floor is solid or lies flat, the fallen beam no longer floats, open coffins show their skeleton and lid, the wall niches have real frames and sills, and the chapel window is back (blue glass, stone frame).
+- CORRECTIF : en ligne (quand tu rejoins une partie) : les invites pour ramasser les épées, livres, bombes, boucliers et autres objets s'affichent de nouveau.
+- CORRECTIF : en ligne : tes propres membres tombés ne glissent plus sur le sol quand tu bouges.
+- CORRECTIF : lag en ligne : mouvements plus fluides sur les connexions lentes ou instables (le jeu met plus en mémoire tampon quand il le faut), et l'hôte envoie environ un quart de données en moins.
+- CORRECTIF : en ligne : plus de messages d'erreur chez l'hôte quand un joueur part.
+- La physique coûte moins cher (environ 15 à 30 %), ce qui aide les hôtes avec un salon plein.
+- Le programme de mise à jour trouve les nouvelles versions tout de suite, réessaie si la connexion flanche, et ne se bloque plus sur un téléchargement arrêté.
+- Le Mausolée antique est plus soigné : moins d'urnes et de gravats, tout ce qui reste au sol est solide ou posé à plat, la poutre tombée ne flotte plus, les cercueils ouverts montrent leur squelette et leur couvercle, les niches des murs ont de vrais cadres et des rebords, et la fenêtre de la chapelle est de retour (vitrail bleu, cadre de pierre).
+
 Update 0.3.0.4
 - FIX: in online games you can now pick up and wear hats and armour plates (the prompt never showed up).
 - FIX: online, your skeleton no longer runs ahead into walls and slides back when you get blocked or stop.
