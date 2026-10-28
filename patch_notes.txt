@@ -1,3 +1,11 @@
+Update 0.3.2
+- NEW: controller support. Plug in a pad and the game follows it: left stick moves, right stick is the camera (flick it to throw your arms), LT / RT are the left and right arm, LB / RB / X are block / pick up / eject, A jumps, B rolls, Y is the uppercut. On-screen prompts show the pad's buttons, and menus work with the D-pad and A.
+- NEW: Laptop mode: J and K are the arms (so the two-click moves need no second trackpad click), the arrow keys aim, and the graphics are lightened. Leaving it puts your old graphics settings back.
+- NEW: Settings > Controls: Auto (switches to the pad while you use it), Keyboard + mouse, Controller or Laptop, plus sliders for stick speed, stick flick and arrow-key aim.
+- NOUVEAU : la manette. Branche-en une et le jeu la suit : stick gauche pour bouger, stick droit pour la caméra (un coup sec lance les bras), LT / RT sont les bras gauche et droit, LB / RB / X servent à parer / ramasser / éjecter, A saute, B roule, Y fait l'uppercut. Les indications à l'écran montrent les boutons de la manette, et les menus se parcourent avec la croix et A.
+- NOUVEAU : le mode Portable : J et K sont les bras (plus besoin d'un deuxième clic de pavé tactile), les flèches visent, et les graphismes sont allégés. En le quittant, tes anciens réglages graphiques reviennent.
+- NOUVEAU : Options > Commandes : Auto (passe à la manette quand tu l'utilises), Clavier + souris, Manette ou Portable, avec des curseurs pour la vitesse du stick, le coup de stick et la visée aux flèches.
+
 Update 0.3.1.1
 - Discord linking and reward codes are postponed: they need a server update that is not ready yet, so they are hidden for now. They are coming in a later update.
 - Winning the Halloween pumpkin quests gives you The Watcher hat right away (no Discord needed).
