@@ -1,3 +1,36 @@
+Update 0.3.1
+- HALLOWEEN (until November 2): pumpkins on every map. Smash them for a treat or a trick, or wear one with R. The red-faced ones are bombs. Decorations everywhere, and a spooky orange-and-violet night (the pumpkin in the main menu's corner, or Settings > Fun).
+- NEW: three pumpkin quests earn The Watcher, a hat that watches everyone. Then its own Spooky quests earn its Spooky look, until October 31 only.
+- NEW: the Bonetique, a walk-in shop just outside the Castle, run by Bonejamin. Chat with him, sit by the fire, haggle, rummage in the bargain bin, and buy records to play on his gramophone.
+- NEW HATS: Skullarium, Happy Deathday, No-Brainer, Pumpkin Head and the Bone Club Beret. Every hat now has its own looks, with more legendary ones on the way.
+- NEW: the Castle rebuilt, with a moat and drawbridge, walls and towers you can walk on, a town street, the keep and throne room, a catapult, and a horse that kicks.
+- NEW: the Bone Box, a new sandbox drawer (Tab). Search everything, spawn it in front of you, and use tools (grab and fling, delete, freeze, clone, pop a bone, crumble, heal), world switches (time of day, gravity, slow motion, music) and rules (god mode, damage, frozen AI...). The sandbox plays the map's music now.
+- NEW: link your Discord (Teeth & Trophies > Your Discord) to keep your name, appear on the leaderboards, earn event rewards and get a welcome gift: 500 Teeth and the Bone Club Beret.
+- NEW: reward codes. Redeem them in Settings > Fun (with a linked Discord). Keep an eye on the Discord.
+- NEW: name yourself! Every skeleton picks its own name before playing.
+- The Ancient Mausoleum got its own eerie theme and the Ancient Homunculus his own battle music. The first time you go down, you get a proper welcome. When he falls, an iron grate in the vault floor breaks open onto stairs down to the Catacombs. Nothing flies out through the ceiling any more.
+- Both bosses got death scenes.
+- Dying sounds like it now, and a little soul slips out.
+- Little secrets are hidden all over the world. No checklist: you just find them.
+- A certain sword-and-shield skeleton has learned a war cry.
+- FIX: online: joiners see smoother movement on laggy or jittery connections (your skeleton keeps going along its last step instead of freezing when a packet is late).
+- Everything new is in French too.
+- NOUVEAU : HALLOWEEN (jusqu'au 2 novembre) : des citrouilles sur toutes les cartes. Écrase-les pour un bonbon ou un sort, ou porte-en une avec R. Celles au visage rouge sont des bombes. Des décorations partout, et une nuit orange et violette (la citrouille dans le coin du menu, ou Options > Pour rire).
+- NOUVEAU : trois quêtes citrouille pour gagner Le Guetteur, un chapeau qui surveille tout le monde. Puis ses quêtes Effrayantes donnent son look Effrayant, seulement jusqu'au 31 octobre.
+- NOUVEAU : la Bonetique, une boutique où l'on entre, juste à côté du Château, tenue par Bonejamin. Discute avec lui, assieds-toi au coin du feu, marchande, fouille le bac à soldes et achète des disques pour son gramophone.
+- NOUVEAUX CHAPEAUX : Crânarium, Joyeux Mortiversaire, Pas Besoin de Cervelle, Tête de Citrouille et le Béret du Club des Os. Chaque chapeau a maintenant ses propres looks, et d'autres légendaires arrivent.
+- NOUVEAU : le Château reconstruit, avec douves et pont-levis, remparts et tours où marcher, une rue, le donjon et la salle du trône, une catapulte, et un cheval qui rue.
+- NOUVEAU : la Boîte à Os, un nouveau tiroir pour le bac à sable (Tab). Cherche n'importe quoi, fais-le apparaître devant toi, et utilise des outils (attraper et lancer, supprimer, figer, cloner, faire sauter un os, pulvériser, soigner), des réglages du monde (heure, gravité, ralenti, musique) et des règles (mode dieu, dégâts, IA figées...). Le bac à sable joue maintenant la musique de la carte.
+- NOUVEAU : lie ton Discord (Dents & Trophées > Ton Discord) pour garder ton pseudo, apparaître dans les classements, gagner les récompenses d'événement et recevoir un cadeau : 500 Dents et le Béret du Club des Os.
+- NOUVEAU : des codes cadeaux. Utilise-les dans Options > Pour rire (avec un Discord lié). Garde un œil sur le Discord.
+- NOUVEAU : choisis ton nom ! Chaque squelette se nomme avant de jouer.
+- L'Ancien Mausolée a son propre thème inquiétant, et l'Homoncule Ancien sa propre musique de combat. La première fois que tu descends, tu as droit à un vrai accueil. Quand il tombe, une grille de fer dans le sol de la crypte s'ouvre sur des marches vers les Catacombes. Plus rien ne passe à travers le plafond.
+- Les deux boss ont maintenant une scène de mort.
+- Mourir s'entend maintenant, et une petite âme s'échappe.
+- De petits secrets sont cachés partout dans le monde. Pas de liste : il suffit de les trouver.
+- Un certain squelette à l'épée et au bouclier a appris un cri de guerre.
+- CORRECTIF : en ligne : les joueurs qui rejoignent voient des mouvements plus fluides sur les connexions lentes ou instables (ton squelette continue sur sa lancée au lieu de se figer quand un paquet est en retard).
+
 Update 0.3.0.5
 - FIX: online (joining a game): pick-up prompts for swords, books, bombs, shields and other items now show up.
 - FIX: online: your own dropped limbs no longer slide along the floor when you move.
